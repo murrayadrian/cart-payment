@@ -1,0 +1,35 @@
+*{  
+    box-sizing: border-box;
+    padding:0px;
+    margin:0px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    /* width:20%; */
+}
+img{
+    height: 50px;
+    width:60px;
+}
+button{
+    padding:15px 20px;
+    color:black;
+    cursor: pointer;
+}
+button.remove{
+    color:red;
+}
+span{
+    padding:15px 20px;
+    color:black;
+    border:1px solid #dddddd;
+}

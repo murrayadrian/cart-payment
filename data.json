@@ -1,0 +1,43 @@
+{
+    "data":[
+        {
+            "id": "a1",
+            "img": "./img/camera1.png",
+            "description": "MASSA AST <br>Color : black, Material : metal",
+            "price": 120,
+            "discount": 25,
+            "tax": 15,
+            "total": 0
+        },
+    
+        {
+            "id": "a2",
+            "img": "./img/camera2.jpg",
+            "description": "MASSA AST <br>Color : black, Material : metal",
+            "price": 7,
+            "discount": 5,
+            "tax": 1,
+            "total": 0
+        },
+    
+        {
+            "id": "a3",
+            "img": "./img/camera3.jpg",
+            "description": "MASSA AST <br>Color : black, Material : metal",
+            "price": 120,
+            "discount": 25,
+            "tax": 15,
+            "total": 0
+        },
+        {
+            "id": "a4",
+            "img": "./img/camera1.png",
+            "description": "MASSA AST <br>Color : black, Material : metal",
+            "price": 120,
+            "discount": 25,
+            "tax": 15,
+            "total": 0
+        }
+    ]
+    
+}
